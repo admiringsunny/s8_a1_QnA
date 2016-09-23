@@ -1,0 +1,21 @@
+a. What is Shared Preferences.
+
+Shared Preferences allow you to save and retrieve data in the form of key,value pair.
+
+
+b. What values can be saved in SharedPreferences.
+
+The following data types are supported by the SharedPreferences class:
+• Boolean values
+• Float values
+• Integer values
+• Long values
+• String values
+
+Examples:
+• Endpoint URLS,
+• The security access token,
+• Certain user preferences like color, title, language, etc.
+
+
+
